@@ -1,4 +1,4 @@
-# BETA_Alchemy_Mini_Bowden
+# BETA_Alchemy_Rotational_Bowden
 Flexible bowden system designed to fit almost anywhere, while providing roational movement to support even shorter bowden assemblies.
 
 # Join the community discussion, get assistance, or even show off your mods!  
