@@ -22,15 +22,12 @@ YOU ACCEPT ALL LIABILITY BY USING THESE FILES FROM THIS BETA TO RELEASE CANDIDAT
 
 This is the first rendition of the Alchemy_Mini_Bowden.   This system's initial design is based on the Voron Jetpack motion components.  During discusions 
 the main VORON discord in the Jetpack support area, it became apparent the system was not popular as it did not achieve shortening the bowden as well as
-the developers intended.  This being paired with the popularity of the Afterburner and Stealthburner toolheads kinda left the Jetpack in a hard place. The 
-goal of this project is to remedy its failings and povide an ultra lightweight but powerful extruder to ride the X gantry, also being able to rotate allowing
-the shortest bowden tube possible.  The rotation removes the need for additional large bending radius turns to get to the hotend by providing a direct route.
-In the initial testing of this unit, it was able to achieve a Bowden length approximately 10", considering the stock tube is near 20" long, thats an improvement
-of basically 50%.  This is where we can say the project has been able to carry the Jetpacks original concept across the finish line.
+the developers intended.  This being paired with the popularity of the Afterburner and Stealthburner toolheads kinda left the Jetpack in a hard place. 
+
+The goal of this project is to remedy its failings and povide an ultra lightweight but powerful extruder to ride the X gantry, also being able to rotate allowing the shortest bowden tube possible.  The rotation removes the need for additional large bending radius turns to get to the hotend by providing a direct route, while also being mounted in the closest possible position to all locations the toolhead moves on gantry. In the initial testing of this unit, it was able to achieve a Bowden length approximately 10", considering the stock tube is near 20" long, thats an improvement of basically 50%.  This is where we can say the project has been able to carry the Jetpacks original concept across the finish line.
 
 Much has changed in this system from its inspirational original product at the Voron project, simply put... everything changed and it really is not the 
-same unit.   However I would like to extend a special thanks to the Voron group for their inspiration on this product.  Please take a moment if you are not familiar with the Voron project to educate yourself on the hard 
-work they commit to the makerspace.  https://vorondesign.com/
+same unit.   However I would like to extend a special thanks to the Voron group for their inspiration on this product.  Please take a moment if you are not familiar with the Voron project to educate yourself on the hard work they commit to the makerspace.  https://vorondesign.com/
 
 Once this product leaves beta, along with the additional variations, scheduled is an entire 3D printer based on the principles these units bring.
 
