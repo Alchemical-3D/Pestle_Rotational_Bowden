@@ -58,6 +58,7 @@ Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 
 1. QTY - 8 - [M3x5x4 Heatsets](https://kb-3d.com/store/inserts-fasteners-adhesives/278-brass-heat-set-threaded-insert-for-plastic-m3x5x4mm.html) (Be sure to get angled exterior texture, not straight)
 2. QTY - 4 - [MR115-2RS Bearing](https://www.amazon.com/Miniature-Bearings-MR115-2RS-Double-Shielded-5x11x4mm/dp/B08PFT72RQ/ref=sr_1_5?crid=U48P0O1YAV1E&keywords=MR115-2RS+Bearing&qid=1658323589&sprefix=mr115-2rs+bearing%2Caps%2C111&sr=8-5) 
+3. QTY - 1 - [Thrust Bearing 5mm ID](https://www.amazon.com/dp/B07QX5ZW8Y?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 3. QTY - 2 - M3x16 SHCS (Socket Head Cap Screw)
 4. QTY - 4 - M3x20 SHCS (Socket Head Cap Screw)
 5. QTY - 1 - [BondTech BMG Extruder Internals Kit](https://kb-3d.com/store/bondtech/484-bondtech-bmg-extruder-internals-kit-build-your-own-1645151327973.html) (Some clones have the correct components for this build internally)
