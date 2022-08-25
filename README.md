@@ -1,4 +1,4 @@
-# BETA_Alchemy_Rotational_Bowden
+# BETA_Pestle_Rotational_Bowden
 Flexible bowden system designed to fit almost anywhere, while providing roational movement to support even shorter bowden assemblies.
 
 # Join the community discussion, get assistance, or even show off your mods!  
