@@ -1,6 +1,9 @@
 # BETA_Pestle_Rotational_Bowden
 Flexible bowden system designed to fit almost anywhere, while providing roational movement to support even shorter bowden assemblies.
 
+
+![Bowden](https://github.com/Alchemical-3D/BETA_Pestle_Rotational_Bowden/blob/main/IMAGES_v3.0/Pestle%20Bowden%20Pic%201.png)
+
 # Join the community discussion, get assistance, or even show off your mods!  
 # DISCORD: https://discord.gg/aE49DW2xXe
 
@@ -32,6 +35,7 @@ same unit.   However I would like to extend a special thanks to the Voron group 
 Once this product leaves beta, along with the additional variations, scheduled is an entire 3D printer based on the principles these units bring.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+![Bowden 2](https://github.com/Alchemical-3D/BETA_Pestle_Rotational_Bowden/blob/main/IMAGES_v3.0/Pestle%20Bowden%20Exploded.png)
 
 # PRINT SETTINGS
 
