@@ -60,17 +60,19 @@ Note: I am working with suppliers to distribute individual qty purchases, this e
 
 Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 
-1. QTY - 8 - [M3x5x4 Heatsets](https://kb-3d.com/store/inserts-fasteners-adhesives/278-brass-heat-set-threaded-insert-for-plastic-m3x5x4mm.html?affp=6182) (Be sure to get angled exterior texture, not straight)
-2. QTY - 4 - [MR115-2RS Bearing](https://www.amazon.com/Miniature-Bearings-MR115-2RS-Double-Shielded-5x11x4mm/dp/B08PFT72RQ/ref=sr_1_5?crid=U48P0O1YAV1E&keywords=MR115-2RS+Bearing&qid=1658323589&sprefix=mr115-2rs+bearing%2Caps%2C111&sr=8-5) 
-3. QTY - 1 - [Thrust Bearing 5mm ID](https://www.amazon.com/dp/B07QX5ZW8Y?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-3. QTY - 2 - M3x16 SHCS (Socket Head Cap Screw)
-4. QTY - 4 - M3x20 SHCS (Socket Head Cap Screw)
-5. QTY - 1 - [BondTech BMG Extruder Internals Kit](https://kb-3d.com/store/bondtech/484-bondtech-bmg-extruder-internals-kit-build-your-own-1645151327973.html?affp=6182) (Some clones have the correct components for this build internally)
-6. QTY - 1 - [Nema 14 High Temp Stepper Motor](https://kb-3d.com/store/stepper-motors/460-ldo-nema-14-high-temp-stepper-motor-36sth20-1004ahg-1640706867164.html?affp=6182)
+1. QTY - 7 - [M3x5x4 Heatsets](https://kb-3d.com/store/inserts-fasteners-adhesives/278-brass-heat-set-threaded-insert-for-plastic-m3x5x4mm.html?affp=6182) (Be sure to get angled exterior texture, not straight) 
+2. QTY - 2 - [Thrust Bearing 5mm ID](https://www.amazon.com/dp/B07QX5ZW8Y?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+3. QTY - 1 - M3x16 SHCS (Socket Head Cap Screw)
+4. QTY - 1 - M3x20 SHCS (Socket Head Cap Screw)
+5. QTY - 2 - M3x30 SHCS (Socket Head Cap Screw)
+6. QTY - 2 - M3x35 SHCS (Socket Head Cap Screw)
+7. QTY - 3 - [PC4-M6 Bowden Connector](https://www.amazon.com/gp/product/B092ZGBC1M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+8. QTY - 1 - [BondTech BMG Extruder Internals Kit](https://kb-3d.com/store/bondtech/484-bondtech-bmg-extruder-internals-kit-build-your-own-1645151327973.html?affp=6182) (Some clones have the correct components for this build internally)
+9. QTY - 1 - [Nema 14 High Temp Stepper Motor](https://kb-3d.com/store/stepper-motors/460-ldo-nema-14-high-temp-stepper-motor-36sth20-1004ahg-1640706867164.html?affp=6182)
 
 Highly Recommended Items Below
 
-7. QTY - 1 - Threadlocker (Loctite Blue or similar strength, its important to note that threadlockers WILL damage ASA/ABS if they come in contact, take care when applying thread lockers that it only gets on the metal assembly.)
+10. QTY - 1 - Threadlocker (Loctite Blue or similar strength, its important to note that threadlockers WILL damage ASA/ABS if they come in contact, take care when applying thread lockers that it only gets on the metal assembly.)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
