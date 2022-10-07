@@ -2,7 +2,7 @@
 Flexible bowden system designed to fit almost anywhere, while providing roational movement to support even shorter bowden assemblies.
 
 
-![Bowden](https://github.com/Alchemical-3D/BETA_Pestle_Rotational_Bowden/blob/main/IMAGES_v3.0/Pestle%20Bowden%20Pic%201.png)
+![Bowden](https://github.com/Alchemical-3D/BETA_Pestle_Rotational_Bowden/blob/main/PESTLE_IMAGES_V7/Pestle4.png)
 
 # Join the community discussion, get assistance, or even show off your mods!  
 # DISCORD: https://discord.gg/aE49DW2xXe
