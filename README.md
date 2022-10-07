@@ -35,7 +35,7 @@ same unit.   However I would like to extend a special thanks to the Voron group 
 Once this product leaves beta, along with the additional variations, scheduled is an entire 3D printer based on the principles these units bring.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-![Bowden 2](https://github.com/Alchemical-3D/BETA_Pestle_Rotational_Bowden/blob/main/IMAGES_v3.0/Pestle%20Bowden%20Exploded.png)
+![Bowden 2](https://github.com/Alchemical-3D/BETA_Pestle_Rotational_Bowden/blob/main/PESTLE_IMAGES_V7/PestleExploded3.png)
 
 # PRINT SETTINGS
 
