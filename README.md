@@ -56,7 +56,7 @@ Perimeter Count - 4
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # B.O.M.  
-Note: I am working with suppliers to distribute individual qty purchases, this early in project though some of these are multipacks.
+Note: I am working with suppliers to distribute individual qty purchases, this early in project though some of these are multipacks.  Alchemical-3D is affiliated to the links below, so if you use these links to purchase the product, you help support us!
 
 Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 
