@@ -61,7 +61,7 @@ Note: I am working with suppliers to distribute individual qty purchases, this e
 Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 
 1. QTY - 7 - [M3x5x4 Heatsets](https://kb-3d.com/store/inserts-fasteners-adhesives/278-brass-heat-set-threaded-insert-for-plastic-m3x5x4mm.html?affp=6182) (Be sure to get angled exterior texture, not straight) 
-2. QTY - 2 - [Thrust Bearing 5mm ID](https://www.amazon.com/dp/B07QX5ZW8Y?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+2. QTY - 2 - [Thrust Bearing 5mm ID](https://kb-3d.com/store/magnets-bearings/696-5mm-x-12mm-x-4mm-thrust-bearing-f5-12m-1645908989939.html?affp=6182)
 3. QTY - 1 - M3x16 SHCS (Socket Head Cap Screw)
 4. QTY - 1 - M3x20 SHCS (Socket Head Cap Screw)
 5. QTY - 2 - M3x30 SHCS (Socket Head Cap Screw)
