@@ -66,7 +66,7 @@ Note: This is the bare minimum, it is wise to have spare screws/heatsets etc.)
 4. QTY - 1 - M3x20 SHCS (Socket Head Cap Screw)
 5. QTY - 2 - M3x30 SHCS (Socket Head Cap Screw)
 6. QTY - 2 - M3x35 SHCS (Socket Head Cap Screw)
-7. QTY - 3 - [PC4-M6 Bowden Connector](https://www.amazon.com/gp/product/B092ZGBC1M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+7. QTY - 3 - [PC4-M6 Bowden Connector](https://kb-3d.com/store/inserts-fasteners-adhesives/707-push-fit-embedded-bowden-fitting-coupler-175-ecas04-1667064368065.html?affp=6182)
 8. QTY - 1 - [BondTech BMG Extruder Internals Kit](https://kb-3d.com/store/bondtech/484-bondtech-bmg-extruder-internals-kit-build-your-own-1645151327973.html?affp=6182) (Some clones have the correct components for this build internally)
 9. QTY - 1 - [Nema 14 High Temp Stepper Motor](https://kb-3d.com/store/stepper-motors/460-ldo-nema-14-high-temp-stepper-motor-36sth20-1004ahg-1640706867164.html?affp=6182)
 
