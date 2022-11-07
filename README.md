@@ -77,3 +77,17 @@ Highly Recommended Items Below
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+# PESTLE ASSEMBLY
+
+Below you will find a 3D View of Pestle assembly for reference.  This identifies the locations and orientation of each screw, heat-set and part you will require to assemble the pestle extrusion system.  If you have further questions please join the Discord and feel free to ask!
+
+https://collaborate.shapr3d.com/v/v6mYEXV8CYMdK-g0WFfRf
+
+# PESTLE RETRACTION SETTINGS
+
+
+Retraction Distance - 1.00MM
+
+Retraction Speed - 40MM/S
+
+Detraction Speed - 45MM/S
