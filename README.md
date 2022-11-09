@@ -1,5 +1,5 @@
 # BETA_Pestle_Rotational_Bowden
-Flexible bowden system designed to fit almost anywhere, while providing roational movement to support even shorter bowden assemblies.
+Flexible bowden system designed to fit almost anywhere, while providing rotational movement to support even shorter bowden assemblies.
 
 
 ![Bowden](https://github.com/Alchemical-3D/BETA_Pestle_Rotational_Bowden/blob/main/PESTLE_IMAGES_V7/Pestle4.png)
