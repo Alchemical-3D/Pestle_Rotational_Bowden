@@ -127,7 +127,6 @@ Link below is an interactive 3D View of Pestle assembly for reference. This iden
 PESTLE RETRACTION SETTINGS
 -
 
->NOTE: These settings are intended as a starting point for makers of the system to begin tuning and do not reflect all system requirements.  Individual system needs vary and your use case may require adjustments.
 
 | Setting | Value |
 | :---: | :---: |
@@ -137,3 +136,5 @@ PESTLE RETRACTION SETTINGS
 | Estimated Presure Advance | .280 |
 | Estimated Presure Advance Smooth Time | .035 |
 
+
+>NOTE: These settings are intended as a starting point for makers of the system to begin tuning and do not reflect all system requirements.  Individual system needs vary and your use case may require adjustments.
