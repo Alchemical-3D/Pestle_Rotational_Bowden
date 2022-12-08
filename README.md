@@ -120,9 +120,7 @@ Link below is an interactive 3D View of Pestle assembly for reference. This iden
 14. - Add PTFE tubing from top of extruder to toolhead assembly, then review Pestle Bowden retraction settings below.
 
 
-### DISCORD: https://discord.gg/aE49DW2xXe
-
-
+---------
 
 PESTLE RETRACTION SETTINGS
 -
@@ -138,3 +136,5 @@ PESTLE RETRACTION SETTINGS
 
 
 >NOTE: These settings are intended as a starting point for makers of the system to begin tuning and do not reflect all system requirements.  Individual system needs vary and your use case may require adjustments.
+
+### DISCORD: https://discord.gg/aE49DW2xXe
