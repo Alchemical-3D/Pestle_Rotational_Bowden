@@ -31,6 +31,7 @@ The concept for this extruder was inspired by the now defunct Voron Jetpack.  Ho
 
 ![Bowden 2](https://github.com/Alchemical-3D/BETA_Pestle_Rotational_Bowden/blob/main/PESTLE_IMAGES_V7/PestleExploded3.png)
 
+-------------------------------------------------------------------------------------------------------------------
 
 ### PRINT SETTINGS
 
