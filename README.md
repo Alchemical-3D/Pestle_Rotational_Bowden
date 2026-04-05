@@ -138,4 +138,6 @@ PESTLE RETRACTION SETTINGS
 
 >NOTE: These settings are intended as a starting point for makers of the system to begin tuning and do not reflect all system requirements.  Individual system needs vary and your use case may require adjustments.
 
+https://ko-fi.com/alchemical3d
+
 ### DISCORD: https://discord.gg/aE49DW2xXe
