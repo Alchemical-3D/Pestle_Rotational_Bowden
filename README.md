@@ -24,10 +24,12 @@
 
 > [!CAUTION]
 > **Material Warning**
+>
 > This assembly comes in relatively close proximity to a heated bed and stepper motor. We will not support issues due to using materials such as PLA to build this assembly. PLA and similar materials (PETG, PLA+, etc.) are **NOT** suitable to build 3D printer parts out of. If you are going to use PETG for the build, please keep an eye on the motor mount area and consider reducing the current to your motor. Steppers produce heat, and PETG (while better than PLA) still has a lower TG point and could begin melting.
 
 > [!WARNING]
 > **Builder Responsibility**
+>
 > This is an aftermarket engineering project. You are solely responsible for your own safety and the integrity of your equipment when building and operating this system. By utilizing these files and instructions, you accept all liability.
 
 ---
