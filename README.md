@@ -20,20 +20,6 @@
 
 ---
 
-## ⚠️ Important Build Notes
-
-> [!CAUTION]
-> **Material Warning**
->
-> This assembly comes in relatively close proximity to a heated bed and stepper motor. We will not support issues due to using materials such as PLA to build this assembly. PLA and similar materials (PETG, PLA+, etc.) are **NOT** suitable to build 3D printer parts out of. If you are going to use PETG for the build, please keep an eye on the motor mount area and consider reducing the current to your motor. Steppers produce heat, and PETG (while better than PLA) still has a lower TG point and could begin melting.
-
-> [!WARNING]
-> **Builder Responsibility**
->
-> This is an aftermarket engineering project. You are solely responsible for your own safety and the integrity of your equipment when building and operating this system. By utilizing these files and instructions, you accept all liability.
-
----
-
 ## 📖 Preface
 
 This is the Pestle Rotational Bowden.
@@ -89,8 +75,20 @@ The concept for this extruder was inspired by the now-defunct Voron Jetpack. We 
 | **1** | [LDO Nema 14 High Temp Stepper Motor - 9T](https://kb-3d.com/store/stepper-motors-servos/4480-ldo-nema-14-high-temp-stepper-motor-36sth20-1004ahg-9t-for-g2-1640706862009.html?affp=6182) | Pancake Stepper - Round |
 | **1** | [Loctite 222MS Threadlocker](https://kb-3d.com/store/tools-equipment/774-loctite-threadlocker-222ms-low-strength-purple-mil-spec-6ml-1673749510419.html?affp=6182) | Recommended Optional |
 
+
+## ⚠️ Important Build Notes
 > [!WARNING]
 > If using **Threadlocker** (Loctite Blue or similar strength), please note that these can damage ASA/ABS when coming into contact. Take care when applying threadlockers to ensure they only contact the metal assembly parts.
+
+> [!CAUTION]
+> **Material Warning**
+>
+> This assembly comes in relatively close proximity to a heated bed and stepper motor. We will not support issues due to using materials such as PLA to build this assembly. PLA and similar materials (PETG, PLA+, etc.) are **NOT** suitable to build 3D printer parts out of. If you are going to use PETG for the build, please keep an eye on the motor mount area and consider reducing the current to your motor. Steppers produce heat, and PETG (while better than PLA) still has a lower TG point and could begin melting.
+
+> [!WARNING]
+> **Builder Responsibility**
+>
+> This is an aftermarket engineering project. You are solely responsible for your own safety and the integrity of your equipment when building and operating this system. By utilizing these files and instructions, you accept all liability.
 
 ---
 
