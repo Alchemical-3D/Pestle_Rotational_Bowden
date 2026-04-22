@@ -9,7 +9,7 @@
 *The flexible Bowden system designed to fit almost anywhere, while providing rotational movement to support even shorter Bowden assemblies.*
 
 <p align="center">
-  <img src="https://github.com/Alchemical-3D/BETA_Pestle_Rotational_Bowden/raw/main/images/Pestle4.png" width="80%" alt="Bowden" style="border-radius: 12px; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.4);" />
+  <img src="images/Pestle_Title_Formatted.png" width="80%" alt="Bowden" />
 </p>
 
 **[Join the Discord!](https://discord.gg/aE49DW2xXe)**
@@ -26,14 +26,14 @@ This is the Pestle Rotational Bowden.
 
 The goal of this project is to provide an ultra-lightweight but powerful extruder which rides the X gantry (or anywhere else you wish) while also being able to rotate, allowing the shortest Bowden tube possible. The rotation removes the need for additional bend radii to get to the toolhead by providing a more direct route. 
 
-Initial testing of this unit showed it was able to achieve a Bowden length of approximately <9", when the stock tube was near 20" long. That is an improvement of 50%. On top of the PTFE length savings, the more direct filament route results in much lower PA values than traditional Bowden setups, as well as retraction settings which are more in line with Direct Drive. All of these benefits combined create a system that takes the best from each world without sacrificing overall performance.
+Initial testing of this unit showed it was able to achieve a Bowden length of approximately <228.6mm, when the stock tube was near 508mm long. That is an improvement of 50%. On top of the PTFE length savings, the more direct filament route results in much lower PA values than traditional Bowden setups, as well as retraction settings which are more in line with Direct Drive. All of these benefits combined create a system that takes the best from each world without sacrificing overall performance.
 
 The concept for this extruder was inspired by the now-defunct Voron Jetpack. We would like to extend a special thanks to the Voron team for their inspiration on this product. Please take a moment if you are not familiar with the Voron project to educate yourself on the hard work they commit to the makerspace: [https://vorondesign.com/](https://vorondesign.com/)
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Alchemical-3D/BETA_Pestle_Rotational_Bowden/raw/main/images/PestleExploded3.png" width="80%" alt="Bowden 2" style="border-radius: 12px; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.4);" />
+  <img src="images/PestleExploded3_Formatted.png" width="80%" alt="Bowden 2" />
 </p>
 
 ---
@@ -152,4 +152,4 @@ If you have questions regarding the location and orientation of each screw, heat
 
 
 ### [Visit our Discord!](https://discord.gg/aE49DW2xXe)
-### DISCORD: https://discord.gg/aE49DW2xXe
+
