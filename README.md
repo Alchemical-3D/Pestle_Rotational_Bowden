@@ -63,7 +63,7 @@ The concept for this extruder was inspired by the now-defunct Voron Jetpack. We 
 | QTY | Material | Notes |
 | :---: | :--- | :--- |
 | **7** | [M3x5x4 Heatsets](https://kb-3d.com/store/inserts-fasteners-adhesives/278-brass-heat-set-threaded-insert-for-plastic-m3x5x4mm.html?affp=6182) | Angled exterior texture, not straight |
-| **2** | [Thrust Bearing](https://kb-3d.com/store/magnets-bearings/696-5mm-x-12mm-x-4mm-thrust-bearing-f5-12m-1645908989939.html?affp=6182) | 5mm ID x 12mm OD |
+| **1** | [Thrust Bearing](https://kb-3d.com/store/magnets-bearings/696-5mm-x-12mm-x-4mm-thrust-bearing-f5-12m-1645908989939.html?affp=6182) | 5mm ID x 12mm OD |
 | **1** | M3x16mm SHCS | Socket Head Cap Screw |
 | **1** | M3x20mm SHCS | Socket Head Cap Screw |
 | **2** | M3x30mm SHCS | Socket Head Cap Screw |
